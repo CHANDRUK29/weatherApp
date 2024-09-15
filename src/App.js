@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Header from './components/Header';
 
 const API_KEY = process.env.API_KEY;
 
