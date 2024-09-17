@@ -7,7 +7,6 @@ import SummaryCard from "./components/SummaryCard";
 
 function App() {
   // const API_KEY = REACT_APP_WEATHER_API_KEY
-  const API_KEY = '4932c87c52ad735f756f2db5b3eb432c'
 
   const [noData, setNoData] = useState('No Data Yet')
   const [searchTerm, setSearchTerm] = useState('')
